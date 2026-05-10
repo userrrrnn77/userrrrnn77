@@ -1,4 +1,4 @@
-# ⚡ Rendy (Bre) | Software Developer
+# ⚡ Rendy (Bre) | FULLSTACK
 🔭 **Currently working on:** EmployeeManager Project & Haircut Region  
 🌱 **Focusing on:** Real-time Systems & Scalable Infrastructure  
 💬 **Ask me about:** React 19, Expo, Express, & MongoDB  
